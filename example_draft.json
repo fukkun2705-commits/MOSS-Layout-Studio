@@ -1,0 +1,22 @@
+{
+  "width": 1024,
+  "height": 1024,
+  "bbox_coord_space": "abs",
+  "bbox_format": "xyxy",
+  "summary": {
+    "caption": "Test poster"
+  },
+  "items": [
+    {
+      "label": "text",
+      "caption": "Test title",
+      "text": "秋をまとう",
+      "bbox": [
+        0,
+        56,
+        1024,
+        389
+      ]
+    }
+  ]
+}
